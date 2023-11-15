@@ -7,7 +7,7 @@ Este é um modelo simples de API em PHP que segue um design RESTful para lidar c
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu/repo.git
+   git clone https://github.com/mm490514/UsuarioAPI.git
    ```
 
 2. Instale as dependências usando o Composer:
